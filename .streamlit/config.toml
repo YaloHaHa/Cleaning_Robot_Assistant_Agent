@@ -1,0 +1,40 @@
+[theme]
+# Modern, clean aesthetic for a tech-forward robot assistant
+base = "light"
+primaryColor = "#0066cc"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f7fa"
+textColor = "#1a1f36"
+linkColor = "#0066cc"
+codeTextColor = "#1a1f36"
+codeBackgroundColor = "#f5f7fa"
+borderColor = "#d0d7de"
+
+# Semantic colors for status indicators
+redColor = "#d62828"
+orangeColor = "#f77f00"
+yellowColor = "#fcbf49"
+greenColor = "#2ecc71"
+blueColor = "#0066cc"
+violetColor = "#7209b7"
+grayColor = "#717985"
+
+# Chart colors - vibrant and cohesive
+chartCategoricalColors = ["#0066cc", "#2ecc71", "#f77f00", "#7209b7", "#e91e63", "#009688", "#5e4fa2"]
+chartSequentialColors = ["#f0f4ff", "#d4e4ff", "#a8d1ff", "#7cbeff", "#4a9fff", "#1a82ff", "#0066cc", "#0052a3", "#003d7a", "#002851"]
+
+# Text styling - modern and clean
+font = "sans serif"
+enableCaching = true
+
+# Page configuration
+maxUploadSize = 200
+
+[client]
+showErrorDetails = false
+
+[logger]
+level = "info"
+
+[browser]
+gatherUsageStats = false

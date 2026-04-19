@@ -1,0 +1,315 @@
+# Robot Vacuum Cleaner FAQ (100 Entries)
+
+### Basic Usage
+
+1. **What should I do before using the robot vacuum for the first time?**
+- Remove all packaging materials from the unit, fully charge the battery, then start mapping in an open environment. Once mapping is complete, set up cleaning zones and restricted areas.
+
+2. **What should I do if the robot doesn't move after powering on?**
+- Check whether the unit is tangled by bumper strips or power cords. Confirm that the bottom caster wheel and drive wheels are not jammed. Restart the device and try again.
+
+3. **What should I do if the robot can't find the charging dock?**
+- Clear obstacles around the charging dock. Ensure there is at least 3 meters of clearance in front and 1 meter on each side of the dock. Place the robot near the charging dock and restart the return-to-dock function.
+
+4. **What should I do if the APP can't connect to the robot?**
+- Confirm that the phone and robot are connected to the same 2.4G WiFi network (5G is not currently supported). Restart both the robot and the router, then re-add the device in the APP.
+
+5. **How do I fix incomplete or garbled maps?**
+- Remove reflective objects (such as mirrors or polished floor tiles) and movable obstacles from the environment. Delete the old map and let the robot remap.
+
+6. **Why does the robot frequently pause during cleaning?**
+- Check whether the dustbin or filter is clogged, whether the battery is low, or whether the sensors on the unit are blocked by dust. Clean and retry.
+
+7. **How do I set up scheduled cleaning?**
+- Open the companion APP, go to [Cleaning Settings] - [Scheduled Cleaning], select the cleaning time, area, and frequency, then save. The robot will execute automatically.
+
+8. **What should I do if the robot returns to charge immediately after powering on?**
+- Check the remaining battery level. If the battery is below 20%, it will prioritize returning to charge. If the battery is sufficient, restart the device and reset the cleaning mode.
+
+9. **What should I do if the robot doesn't respond to manual remote control?**
+- Confirm that the phone and robot are properly connected. Exit and re-enter the APP. Check whether the robot is in "Auto Clean" mode and switch to "Manual Mode."
+
+10. **What should I do if the robot doesn't auto-return to charge after cleaning?**
+- Check whether the "Auto Return to Charge" function is disabled in the APP. Confirm that the charging dock position on the map has not been modified. Clean dust from the robot's return-to-charge sensors.
+
+### Cleaning Performance
+
+11. **What should I do if there is still dust or debris on the floor after cleaning?**
+- Check whether the main brush or side brushes are worn or tangled with hair. Clean the dustbin and filter. Set suction to the highest level and increase the cleaning frequency.
+
+12. **How do I fix missed cleaning areas?**
+- Check whether restricted zones have been set. Try remapping or manually guiding the robot to clean the missed area.
+
+13. **What should I do if corners aren't cleaned thoroughly?**
+- Check whether the side brush is rotating normally and whether it is worn. Switch the robot to "Edge Cleaning" mode and manually assist with hard-to-reach corners.
+
+14. **How do I handle incomplete dust removal on carpets?**
+- Confirm that the robot supports the carpet boost function. Set suction to maximum. Clear debris from the carpet surface to prevent the robot from slipping.
+
+15. **What should I do if there are water stains or marks on the floor after mopping?**
+- Reduce the water tank output. Replace with a clean mop pad. Switch the mopping mode to "Dry Mop" or "Low Speed Mopping." Avoid the robot lingering in the same area repeatedly.
+
+16. **How do I resolve stains remaining on the floor after mopping?**
+- Check whether the mop pad is dirty or hardened. Wash or replace the mop pad promptly. For stubborn stains, manually spray cleaning solution and then let the robot re-mop.
+
+17. **What should I do if the robot misses hair during cleaning?**
+- Clean hair tangled around the main brush. Replace with a pet-specific anti-tangle main brush. Set suction to high and enable "Hair Cleaning Mode."
+
+18. **What should I do if the robot can't pick up large debris (e.g., cookie crumbs)?**
+- Check whether the roller brush chamber is clogged. Confirm the suction inlet is unobstructed. Switch the robot to "High Suction Mode." Avoid large debris getting jammed in the roller brush.
+
+19. **How do I handle inconsistent cleaning results on different floor types?**
+- Set up "Zone Cleaning" in the APP. Adjust suction and mopping modes separately for carpets and tiles to optimize cleaning parameters.
+
+20. **What should I do if there is lint from the mop pad on the floor after cleaning?**
+- Replace with a new lint-free mop pad. Soak and wring out the mop pad before use to prevent shedding. After cleaning, lightly wipe the floor with a dry cloth.
+
+### Consumables & Maintenance
+
+21. **How often should the main brush be replaced?**
+- Under normal use, replace the standard main brush every 3–6 months. For pet households, replace every 1–3 months. Replace immediately if you notice wear or deformation.
+
+22. **What happens when the side brush is worn? How do I replace it?**
+- A worn side brush leads to incomplete edge cleaning. Remove the side brush clip on the bottom of the unit, replace with a new side brush, and press firmly to secure.
+
+23. **Can the HEPA filter be washed and reused?**
+- The filter can be rinsed with clean water monthly. Let it air-dry in a cool place — do not expose to direct sunlight. After 3–6 months of use, replace with a new filter.
+
+24. **How often should the dustbin be cleaned?**
+- For a typical household, clean every 2–3 days. For pet households or large homes, clean daily to prevent overflow from affecting suction performance.
+
+25. **How do I clean and replace the mop pad?**
+- The mop pad can be washed and reused. Wash promptly when it becomes dirty or stiff. Replace with a new mop pad after 1–2 months of use to maintain mopping effectiveness.
+
+26. **What should I do if the battery life is getting shorter?**
+- Avoid leaving the robot with a depleted battery for extended periods. Return to charge promptly after each use. Periodically perform a full charge and full discharge cycle to calibrate the battery. After 1–2 years, if battery life has significantly degraded, replace the battery.
+
+27. **How often should the dust collection bag be replaced?**
+- For auto-emptying models, a typical household should replace the bag every 1–2 months. Pet households should replace every 2 weeks to 1 month.
+
+28. **What are the symptoms of a clogged filter? How do I clean it?**
+- A clogged filter causes reduced suction and unusual noises from the robot. Remove the filter, gently brush off dust with a soft brush, rinse with clean water, let it dry, and reinstall.
+
+29. **How do I fix a jammed or noisy caster wheel?**
+- Use tweezers to remove hair and thread tangled around the caster wheel. Apply a small amount of lubricant to the axle to prevent jamming that affects movement.
+
+30. **What should I do if the drive wheels slip or won't turn?**
+- Clean debris and hair from the drive wheel gaps. Check whether the tires are worn. Replace promptly if severely worn to prevent the robot from being unable to move.
+
+31. **What should I do if the water tank is leaking?**
+- Check whether the water tank cap is tightened. Check whether the outlet pipe is clogged. Reduce the water output. Avoid vigorous shaking of the robot during mopping. Replace a damaged water tank.
+
+32. **Can I add any cleaning solution to the water tank?**
+- It is recommended to use cleaning solutions specifically designed for robot vacuums. Do not add alcohol, disinfectants, dish soap, or other corrosive liquids, as they may damage the water tank and floor.
+
+33. **How do I eliminate odor from the roller brush chamber?**
+- Remove the roller brush and brush chamber. Wash with clean water and let dry. Spray a small amount of pet-specific deodorizer. Clean regularly to prevent mold growth.
+
+34. **How should I store the battery if not using the robot for a long time?**
+- Charge the battery to 50%–70%, remove it, and store in a cool, dry place. Top up the charge every 1–2 months to prevent battery damage from deep discharge.
+
+35. **How do I clean hair tangled around the main brush?**
+- Release the clips on both ends of the main brush and remove it. Use scissors to cut the tangled hair, then use a brush to clean debris from the roller brush chamber.
+
+### Fault Alarms
+
+36. **How do I handle abnormal alarm alerts?**
+- Check the error code. The APP provides solution guidelines for common issues.
+
+37. **What should I do if I get a "Dustbin Not Installed" alarm but the dustbin is installed?**
+- Check whether the dustbin is properly seated. Clean dust from the dustbin detection sensor. Reinstall the dustbin and secure the clips firmly.
+
+38. **How do I resolve a "Filter Clogged" alarm?**
+- Immediately remove the filter. Clean dust and debris from the filter and suction inlet. Wash the filter, let it dry, and reinstall. Restart the robot.
+
+39. **What should I do about a "Battery Fault" alarm?**
+- Turn off the robot. Remove and reinsert the battery. If the alarm persists, contact after-sales service for battery testing. Replace the battery if necessary.
+
+40. **What should I do about a "Sensor Anomaly" alarm?**
+- Use a dry, soft cloth to wipe all sensors on the front and bottom of the unit. Ensure dust and water stains are not blocking them. Restart the device after cleaning.
+
+41. **How do I resolve a "Collision Sensor Fault" alarm?**
+- Check whether the bumper strip is stuck or deformed. Gently press the bumper strip to confirm it rebounds normally. Clean sensor dust and restart.
+
+42. **What should I do about a "Mopping System Fault" alarm?**
+- Check whether the water tank is properly installed and whether the mop pad is jammed. Clean debris from the mopping module. Restart the robot. If the alarm persists, contact after-sales service.
+
+43. **Why is the robot making a "beep-beep-beep" alarm sound?**
+- This is usually caused by low battery, clogged consumables, or sensor anomalies. Check the indicator lights on the unit and APP notifications to identify and resolve the issue.
+
+44. **What should I do about a "Return-to-Charge Sensor Fault" alarm?**
+- Wipe the return-to-charge sensor on the bottom of the robot. Clean the infrared sensing area on the charging dock. Ensure there are no obstructions. Try returning to charge again.
+
+45. **How do I handle a "Roller Brush Fault" alarm?**
+- Remove the roller brush. Clean tangled hair and debris. Check whether the roller brush motor is jammed. Reinstall the roller brush and restart.
+
+46. **What should I do if the robot alarms and shuts down immediately after powering on?**
+- Check for short circuits or unusual sounds in the unit. Immediately disconnect the power. Contact after-sales service for motor and circuit inspection. Do not disassemble the unit yourself.
+
+47. **What should I do about a "WiFi Module Fault" alarm?**
+- Restart the robot and router. Restore the robot to factory settings. Reconnect to WiFi. If the alarm persists, contact after-sales service to replace the WiFi module.
+
+48. **How do I resolve an "Anti-Drop Sensor Fault" alarm?**
+- Use a dry cloth to wipe the anti-drop sensors on the bottom of the robot. Ensure dust is not blocking them. Check whether the sensors are damaged. Contact after-sales service if necessary.
+
+49. **What should I do about a "Side Brush Fault" alarm?**
+- Check whether the side brush is tangled with debris or improperly installed. Remove the side brush, clean it, and reinstall. If the motor doesn't spin, contact after-sales service.
+
+50. **What should I do about a "Dust Collection System Fault" alarm (auto-emptying models)?**
+- Check whether the dust collection bag is properly installed and whether it is full. Clear debris from the dust collection channel. Restart the dust collection system. If the alarm persists, contact after-sales service.
+
+### Feature-Specific
+
+51. **What should I do if the anti-drop function fails?**
+- Wipe the anti-drop sensors on the bottom. Check whether the sensors are obstructed. Place the robot on a flat surface and restart the device to recalibrate the sensors.
+
+52. **How do I fix poor obstacle avoidance with frequent furniture collisions?**
+- Clean the obstacle avoidance camera and sensors on the front of the unit. Ensure dust and water stains are not blocking them. Enable "Advanced Obstacle Avoidance Mode" in the APP and remap.
+
+53. **What should I do if the carpet boost function isn't working?**
+- Confirm that the robot supports the carpet boost function. Enable the function in the APP. Check whether the carpet is too thin for the robot to detect.
+
+54. **How do I fix zone cleaning when areas can't be selected?**
+- Confirm that the map is fully built. Delete the old map and remap. Update the APP and robot firmware. Restart and try zone selection again.
+
+55. **What should I do if the robot still enters restricted zones after they've been set?**
+- Check whether the restricted zone boundaries are set accurately. Readjust the zone boundaries. Save and let the robot re-recognize the map. Disable the "Temporarily Cancel Restricted Zone" function.
+
+56. **What should I do if the auto dust collection function isn't working?**
+- Check whether the dust collection bag is properly installed and whether the collection chamber is closed. Clear the dust collection channel. Confirm that the robot and collection dock are properly connected.
+
+57. **What should I do if voice control isn't responding?**
+- Confirm that the robot is connected to a voice assistant (e.g., Xiao AI, Tmall Genie). Check the network connection. Re-bind the voice device. Increase the volume of voice commands.
+
+58. **How do I fix the mopping mode not turning on?**
+- Check whether the water tank is properly installed and has water. Check whether the mop pad is installed. Confirm that mopping is not disabled in the APP. Restart the robot.
+
+59. **What should I do if the robot drifts away from walls during edge cleaning mode?**
+- Wipe the edge-following sensors on the unit. Check whether the side brush is worn. Place the robot on a flat surface and restart edge cleaning mode.
+
+60. **How do I fix inaccurate spot cleaning?**
+- Confirm that the map is fully built. Re-calibrate the spot cleaning position in the APP. Clear obstacles from the target area. Let the robot relocate.
+
+61. **What should I do if the robot fails to cross a threshold?**
+- Confirm that the threshold height is within the robot's crossing range (generally ≤2 cm). Clear debris from the threshold area. Manually assist the robot in crossing once so it can memorize the location.
+
+62. **What should I do if I can't view cleaning records in the APP?**
+- Check the network connection. Update the APP to the latest version. Restart the robot. Confirm that the "Upload Cleaning Records" function is enabled on the robot.
+
+63. **How do I fix multi-floor maps that won't switch?**
+- Confirm that the robot supports multi-floor mapping. Build maps for each floor separately in the APP. Clear identification markers between floors. Restart and try switching again.
+
+64. **What should I do if suction is weaker in silent mode?**
+- Silent mode reduces suction by default to minimize noise. If you need stronger suction, turn off silent mode and select "Standard Suction" or "High Suction."
+
+65. **What should I do if the robot's cleaning path is chaotic?**
+- Remove movable obstacles from the environment. Delete the old map and remap. Enable "Planned Cleaning" mode to avoid random cleaning paths.
+
+### Special Scenarios & Usage
+
+66. **How can pet households optimize cleaning performance?**
+- Replace with an anti-tangle main brush and high-density filter. Enable "Pet Mode." Increase suction and cleaning frequency. Clean the dustbin and roller brush daily.
+
+67. **How should cleaning be planned for large homes?**
+- Use "Zone Cleaning" to clean different areas in batches. If the robot's battery is insufficient, enable "Resume After Recharge" so it returns to charge and continues where it left off.
+
+68. **What precautions should I take when mopping wood floors?**
+- Reduce the water tank output. Use dry mop mode. Avoid standing water that could damage the flooring. Wring out the mop pad before use and promptly clean up any water on the floor.
+
+69. **How do I avoid water marks on tile floors?**
+- Replace with a more absorbent mop pad. Reduce the water output. Set the robot to mop at low speed. Open doors and windows for ventilation after cleaning to speed up drying.
+
+70. **What precautions should families with children take when using a robot vacuum?**
+- Set up exclusive restricted zones for children's rooms. Prevent the robot from colliding with children's toys. Place the robot in a location out of children's reach for charging. Regularly inspect consumables.
+
+71. **What cleaning mode is best for renters or small apartments?**
+- Enable "One-Touch Clean" or "Mini Clean" mode. Set up scheduled cleaning for short daily sessions to keep the floor clean.
+
+72. **Can the robot clean up pet litter (cat litter, etc.)?**
+- It can clean up lightly scattered cat or dog litter. Switch to high suction mode. Avoid large litter granules jamming the roller brush. Clean the dustbin promptly.
+
+73. **How do I clean kitchen floors with grease?**
+- First use high suction mode to clean surface debris from the greasy area. Then use a specialized cleaning solution with mopping mode to re-mop. Manually pre-treat grease if necessary.
+
+74. **What precautions should I take when cleaning bathroom floors?**
+- Avoid large amounts of standing water on the bathroom floor. Clean water from the threshold area. Enable the anti-drop function to prevent the robot from falling into toilets or floor drains.
+
+75. **What should I do if the robot can't move on a long-pile carpet?**
+- Confirm that the robot supports long-pile carpet cleaning. Switch to high suction mode. Clear debris from the carpet surface. Avoid the roller brush getting tangled in long fibers. Disable carpet boost if necessary.
+
+76. **How do I fix garbled mapping near mirrors or glass?**
+- Set restricted zones near mirrors and glass, or use a light-blocking cover on the mirror surface. Prevent reflections from interfering with sensors. Remap the area.
+
+77. **What should I do if the robot can't fit under low furniture?**
+- Measure the clearance under the furniture and confirm whether it's within the robot's accessible range. If the robot can't fit, manually clean under the furniture or consider an ultra-slim robot model.
+
+78. **Can the robot clean under beds and sofas?**
+- If the clearance under the bed or sofa is ≥ the robot's height, enable "Deep Cleaning" mode. Clear any tangled objects underneath beforehand and ensure no restricted zones are set for that area.
+
+79. **What precautions should I take when using the robot in winter?**
+- Avoid extended operation in low-temperature environments. Battery life decreases in cold conditions. Return to charge promptly. Clean any frost from the unit's surface.
+
+80. **What precautions should I take when using the robot in summer?**
+- Avoid operating the robot in direct sunlight. Regularly clean the motor ventilation openings to prevent overheating protection. Refill the water tank promptly.
+
+### Upgrades & After-Sales
+
+81. **How do I upgrade the robot's firmware?**
+- After connecting to WiFi, the APP will prompt for a system update. Tap "Upgrade Now." Keep the robot powered on and connected to the network during the upgrade. Do not cut power.
+
+82. **Can the robot be restored to factory settings? How?**
+- Yes. In the APP, go to [Settings] - [Device Info] - [Restore Factory Settings]. Alternatively, press and hold the Power button + Return-to-Charge button on the unit for 10 seconds. After restoring, you will need to remap and reconfigure settings.
+
+83. **What should I do if I forget my APP login password?**
+- On the APP login page, tap "Forgot Password." Enter the phone number associated with your account. Receive a verification code and reset your password.
+
+84. **How do I reconnect the robot after changing phones?**
+- Unbind the robot in the APP on your old phone. Download the same APP on the new phone. Log in to your account. Re-add the device and connect to WiFi.
+
+85. **How do I set up the robot after moving to a new home?**
+- Delete the old map. Clear obstacles in the new home. Remap the environment. Set up new cleaning zones and restricted areas. Check whether consumables need replacement.
+
+86. **What should I do if the robot malfunctions after the warranty expires?**
+- Contact the brand's official after-sales service for paid repair, or choose a professional third-party repair service. Do not disassemble the robot yourself.
+
+87. **How do I check the robot's warranty period?**
+- Refer to the product manual or purchase invoice. You can also check the warranty information in the APP under [Device Info]. Typically, the unit has a 1–2 year warranty and the battery has a 6-month warranty.
+
+88. **What should I do if the robot can't connect after changing the WiFi name or password?**
+- Press and hold the WiFi reset button on the robot to restore WiFi settings. Search for the new WiFi network in the APP and enter the new password to connect.
+
+89. **Where can I purchase replacement accessories for the robot?**
+- Purchase original accessories from the brand's official flagship store, APP store, or authorized offline retailers. Avoid using non-original accessories to prevent damage to the robot.
+
+90. **How do I diagnose the cause of unusual noises from the robot?**
+- A "hissing" sound usually indicates a clogged filter. A "clicking" sound usually means the roller brush or side brush is tangled with debris. A "humming" sound usually indicates a motor fault. Clean accordingly or contact after-sales service.
+
+91. **Can I disassemble and repair the robot myself?**
+- This is not recommended. The robot's internal circuits and sensors are complex. Self-disassembly may damage the device and void the warranty. Contact professional after-sales service for repairs.
+
+92. **Does cosmetic damage like paint peeling affect the robot's performance?**
+- Cosmetic damage alone does not affect core functionality. If it bothers you aesthetically, contact after-sales service to replace the shell. If the damage was caused by impact that may have affected internal components, get it inspected promptly.
+
+93. **How do I fix APP crashes or lag?**
+- Close the APP background processes. Update the APP to the latest version. Clear your phone's memory. If it still crashes, uninstall and reinstall the APP.
+
+94. **How do I bind multiple phones to control the same robot?**
+- In the primary phone's APP, go to [Device Sharing]. Invite other phones to log in to the same account, or share the device via phone number. Once accepted, all phones can control the robot.
+
+95. **What should I do if the robot's cleaning area doesn't match the labeled value?**
+- Confirm that the map is fully built. Clear environmental obstacles. Re-calibrate the cleaning area in the APP. Check whether the robot is missing areas or cleaning areas repeatedly.
+
+96. **What should I do if the robot won't start in cold environments?**
+- Move the robot to a room-temperature environment (above 5°C). Let it sit for 30 minutes. Recharge. Avoid using the robot in low-temperature environments.
+
+97. **What should I do if the robot overheats severely while charging?**
+- Check whether the charging dock is well-ventilated. Avoid charging in enclosed spaces. Pause charging and wait for the unit to cool down before resuming. If overheating persists, contact after-sales service.
+
+98. **How can I extend the lifespan of my robot vacuum?**
+- Regularly clean consumables and sensors. Replace worn accessories promptly. Avoid impacts and drops. When not in use for extended periods, properly store the battery. Power on periodically for maintenance.
+
+99. **Can accessories from different brands be used interchangeably?**
+- This is not recommended. Accessories from different brands vary in size and specifications. Using non-original accessories may affect cleaning performance or even damage the robot.
+
+100. **How do I fix declining suction after prolonged use?**
+- Thoroughly clean dust and debris from the dustbin, filter, roller brush, and suction inlet. Replace worn main and side brushes. Recalibrate the motor. If suction is still insufficient, contact after-sales service for inspection.

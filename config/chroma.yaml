@@ -1,0 +1,13 @@
+collection_name: agent
+persist_directory: chroma_db
+
+retriever_k: 4
+
+chunk_size: 200
+chunk_overlap: 20
+separator: ["\n\n", "\n", ".", "!", "?", "。", "！", "？", " ", ""]
+
+md5_hex_store: md5.text
+
+data_path: data_bot
+allowed_file_types: [".pdf", ".txt"]

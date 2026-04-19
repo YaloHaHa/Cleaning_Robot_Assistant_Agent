@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+langchain-chroma
+langchain-text-splitters
+openai
+streamlit
+pyyaml
+pypdf
+chromadb
+

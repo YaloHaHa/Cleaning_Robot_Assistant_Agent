@@ -1,0 +1,2 @@
+chat_model_name: gpt-5-nano
+embedding_model_name: text-embedding-3-small

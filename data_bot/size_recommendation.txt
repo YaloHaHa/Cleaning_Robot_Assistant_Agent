@@ -1,0 +1,8 @@
+Height: 155-165cm, Weight: 37.5-47.5kg, Recommended Size: S.
+Height: 160-170cm, Weight: 45-57.5kg, Recommended Size: M.
+Height: 165-175cm, Weight: 57.5-67.5kg, Recommended Size: L.
+Height: 170-178cm, Weight: 65-75kg, Recommended Size: XL.
+Height: 175-182cm, Weight: 72.5-82.5kg, Recommended Size: 2XL.
+Height: 178-185cm, Weight: 80-90kg, Recommended Size: 3XL.
+Height: 180-190cm, Weight: 90-105kg, Recommended Size: 4XL.
+Height: 190cm+, Weight: 105kg+, Recommended Size: 5XL.
