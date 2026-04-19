@@ -10,4 +10,5 @@ streamlit
 pyyaml
 pypdf
 chromadb
+protobuf>=4.25.0,<6
 
