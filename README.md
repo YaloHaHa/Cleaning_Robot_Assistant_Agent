@@ -1,6 +1,14 @@
 # 🤖 Cleaning Robot Q&A Assistant
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cleaningrobotassistantagent-gfuvjzdvsvrzya9ubamxcl.streamlit.app/)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
+[![LangChain](https://img.shields.io/badge/LangChain-ReAct_Agent-green.svg)](https://www.langchain.com/)
+
+**[👉 Try the Live Demo](https://cleaningrobotassistantagent-gfuvjzdvsvrzya9ubamxcl.streamlit.app/)**
+
 A modern AI-powered chatbot demo showcasing **LangChain ReAct agents**, **Retrieval-Augmented Generation (RAG)**, and **tool-use capabilities** for intelligent robot vacuum and mop combo Q&A. Built with Streamlit for an intuitive, interactive interface.
+
+![App Screenshot](docs/screenshot.png)
 
 ## ✨ Features
 
@@ -264,6 +272,12 @@ This project demonstrates:
 3. **Report Generation**: Say "Generate my usage report" to see report pipeline
 4. **Multi-step Reasoning**: Ask complex questions requiring tool chaining
 5. **Streaming**: Watch responses appear character-by-character in real-time
+
+## 🌐 Live Demo
+
+**[https://cleaningrobotassistantagent-gfuvjzdvsvrzya9ubamxcl.streamlit.app/](https://cleaningrobotassistantagent-gfuvjzdvsvrzya9ubamxcl.streamlit.app/)**
+
+The app is deployed on Streamlit Community Cloud. The vector store rebuilds automatically on each cold start from the included knowledge base documents.
 
 ## 🤝 License
 
