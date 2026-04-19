@@ -8,7 +8,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from utils.config_handler import chroma_conf
 from utils.file_handler import pdf_loader, txt_loader, listdir_with_allowed_type, get_file_md5_hex
 from langchain_openai import OpenAIEmbeddings
-from model.factory import embedding_model
+from model.factory import get_embedding_model
 import os
 from utils.logger_handler import logger
 
@@ -20,7 +20,7 @@ class VectorStoreService:
     def __init__(self):
         self.vector_store = Chroma(
             collection_name=chroma_conf["collection_name"],
-            embedding_function=embedding_model,
+            embedding_function=get_embedding_model(),
             persist_directory=chroma_conf["persist_directory"]
         )
         self.splitter = RecursiveCharacterTextSplitter(
