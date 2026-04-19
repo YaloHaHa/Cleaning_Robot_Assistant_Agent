@@ -7,7 +7,7 @@ from xml.dom.minidom import Document
 from rag.vector_store import VectorStoreService
 from utils.prompt_uploader import load_rag_prompts
 from langchain_core.prompts import PromptTemplate
-from model.factory import get_chat_model
+from model.factory import chat_model 
 from langchain_core.output_parsers import StrOutputParser
 
 def print_prompt(prompt):
@@ -22,7 +22,7 @@ class RagSummarizeService:
         self.retriever = self.vector_store_service.get_retriever()
         self.prompt_text = load_rag_prompts()
         self.prompt_template = PromptTemplate.from_template(self.prompt_text)
-        self.model = get_chat_model()
+        self.model = chat_model
         self.chain = self._init_chain()
     
     def _init_chain(self):

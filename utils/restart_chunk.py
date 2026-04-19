@@ -4,13 +4,13 @@ from utils.config_handler import chroma_conf
 from utils.path_tool import get_abs_path
 from utils.logger_handler import logger
 from langchain_chroma import Chroma
-from model.factory import get_embedding_model
+from model.factory import embedding_model
 
 
 def _get_vector_store() -> Chroma:
     return Chroma(
         collection_name=chroma_conf["collection_name"],
-        embedding_function=get_embedding_model(),
+        embedding_function=embedding_model,
         persist_directory=chroma_conf["persist_directory"],
     )
 
