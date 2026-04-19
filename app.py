@@ -1,9 +1,4 @@
-import os
 import streamlit as st
-
-if "OPENAI_API_KEY" not in os.environ and "OPENAI_API_KEY" in st.secrets:
-    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
-
 from agent.react_agent import ReactAgent
 import time
 
